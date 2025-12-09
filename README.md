@@ -9,6 +9,7 @@ Please update to the latest version: 6.42 Build 57
 
 
   ======================================================
+  
     :                                                :
     :  [1] Download Latest IDM Version               :
     :  [2] Activate Internet Download Manager        :
@@ -17,6 +18,7 @@ Please update to the latest version: 6.42 Build 57
     :  [5] Completely Remove IDM Registry Entries    :
     :  [6] Exit                                      :
     :                                                :
+    
   ======================================================
 
 Choose an option (1-6):
